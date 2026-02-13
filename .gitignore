@@ -1,0 +1,4 @@
+/target
+**/*.rs.bk
+Cargo.lock
+gimp_paa_temp.png
